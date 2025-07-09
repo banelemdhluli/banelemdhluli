@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Banele Mdhluli</h1>
-<h3 align="center">Aspiring Developer | Java & SQL Enthusiast 🚀</h3>
+<h3 align="center">Aspiring Developer | Java  Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Explore.+Learn.+Enjoy." alt="Typing SVG" />
@@ -19,7 +19,7 @@ Currently sharpening my coding skills, diving into both frontend and backend tec
 - 🧠 Practice Java programming through hands-on projects
 - 🗄️ Work with MySQL for backend data handling
 - 📘 Constantly learning and improving my software development skills
-- 💬 Exploring web development, Java GUIs, and database apps
+- 💬 Exploring backend development, Java GUIs, and database apps
 
 ---
 
@@ -28,8 +28,7 @@ Currently sharpening my coding skills, diving into both frontend and backend tec
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  
 </div>
 
 ---
