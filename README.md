@@ -11,7 +11,7 @@
 
 I'm **Banele Mdhluli**, a motivated developer passionate about building applications using **Java** and **SQL**.  
 Currently sharpening my coding skills, diving into both frontend and backend technologies, and always ready to learn something new.
-My best friend is DEBUG & my enemie is BUG
+My best friend is DEBUG & my enemy is BUG
  
 ---
 
