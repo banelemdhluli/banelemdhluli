@@ -10,8 +10,7 @@
 ## 🌟 Who am I?
 
 I'm **Banele Mdhluli**, a motivated developer passionate about building applications using **Java** and **SQL**.  
-Currently sharpening my coding skills, diving into both frontend and backend technologies, and always ready to learn something new.
-My best friend is DEBUG & my enemy is BUG
+I enjoy designing and building reliable backend systems, working with databases, and applying core software engineering principles such as clean code, modular design, and object-oriented programming. 
  
 ---
 
@@ -20,7 +19,7 @@ My best friend is DEBUG & my enemy is BUG
 - 🧠 Practice Java programming through hands-on projects
 - 🗄️ Work with MySQL for backend data handling
 - 📘 Constantly learning and improving my software development skills
-- 💬 Exploring backend development, Java GUIs, and database apps
+- 💬 Exploring Java programming,backend development and database systems
 
 ---
 
