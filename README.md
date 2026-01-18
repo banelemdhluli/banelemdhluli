@@ -9,8 +9,9 @@
 
 ## 🌟 Who am I?
 
-I'm **Banele Mdhluli**, a motivated developer passionate about building applications using **Java** and **SQL**.  
+I'm **Banele Mdhluli**, a motivated developer passionate about building applications using **Java**,**SpringBoot**,**SQL**.  
 I enjoy designing and building reliable backend systems, working with databases, and applying core software engineering principles such as clean code, modular design, and object-oriented programming. 
+🚀 Open to internships, remote junior dev roles & freelance projects
  
 ---
 
